@@ -1,0 +1,15 @@
+{"background_path": "../datasets/VOCdevkit/VOC2012/JPEGImages/",
+  "flow_path": "../datasets/static_40k_png_1_of_4/",
+  "H": 640,
+  "W": 640,
+  "aug_items": ["jit","rot","chan_change", "crop", "flip", "light", "noise", "blur", "curve", "input_norm"],
+  "LR": 0.0001,
+  "wd": 0.5,
+  "iters": 100000,
+  "Batchsize": 8,
+  "check_num": 1000,
+  "show_result": 0,
+  "mode_type": "rst_flow",
+  "train_vis": 1,
+  "epoches": 30
+}

@@ -1,0 +1,110 @@
+2024-10-17 09:08:14 - root - INFO: - metrics: Calculated!{"AP": 0.182, "recall": 0.182, "hmean": 0.199, "precision": 0.219}
+
+2024-10-17 09:08:49 - root - INFO: - metrics: Calculated!{"AP": 0.293, "recall": 0.293, "hmean": 0.353, "precision": 0.443}
+
+2024-10-17 09:09:23 - root - INFO: - metrics: Calculated!{"AP": 0.306, "recall": 0.306, "hmean": 0.434, "precision": 0.749}
+
+2024-10-17 09:09:57 - root - INFO: - metrics: Calculated!{"AP": 0.453, "recall": 0.454, "hmean": 0.565, "precision": 0.75}
+
+2024-10-17 09:10:31 - root - INFO: - metrics: Calculated!{"AP": 0.568, "recall": 0.568, "hmean": 0.681, "precision": 0.849}
+
+2024-10-17 09:11:05 - root - INFO: - metrics: Calculated!{"AP": 0.655, "recall": 0.655, "hmean": 0.746, "precision": 0.865}
+
+2024-10-17 09:11:39 - root - INFO: - metrics: Calculated!{"AP": 0.742, "recall": 0.742, "hmean": 0.816, "precision": 0.905}
+
+2024-10-17 09:12:14 - root - INFO: - metrics: Calculated!{"AP": 0.795, "recall": 0.795, "hmean": 0.867, "precision": 0.955}
+
+2024-10-17 09:12:48 - root - INFO: - metrics: Calculated!{"AP": 0.435, "recall": 0.435, "hmean": 0.565, "precision": 0.806}
+
+2024-10-17 09:13:22 - root - INFO: - metrics: Calculated!{"AP": 0.887, "recall": 0.887, "hmean": 0.917, "precision": 0.948}
+
+2024-10-17 09:13:57 - root - INFO: - metrics: Calculated!{"AP": 0.909, "recall": 0.909, "hmean": 0.931, "precision": 0.955}
+
+2024-10-17 09:14:32 - root - INFO: - metrics: Calculated!{"AP": 0.917, "recall": 0.917, "hmean": 0.941, "precision": 0.966}
+
+2024-10-17 09:15:08 - root - INFO: - metrics: Calculated!{"AP": 0.93, "recall": 0.93, "hmean": 0.95, "precision": 0.971}
+
+2024-10-17 09:15:42 - root - INFO: - metrics: Calculated!{"AP": 0.96, "recall": 0.96, "hmean": 0.96, "precision": 0.96}
+
+2024-10-17 09:16:17 - root - INFO: - metrics: Calculated!{"AP": 0.816, "recall": 0.816, "hmean": 0.89, "precision": 0.977}
+
+2024-10-17 09:16:52 - root - INFO: - metrics: Calculated!{"AP": 0.939, "recall": 0.939, "hmean": 0.961, "precision": 0.984}
+
+2024-10-17 09:17:27 - root - INFO: - metrics: Calculated!{"AP": 0.968, "recall": 0.968, "hmean": 0.972, "precision": 0.976}
+
+2024-10-17 09:18:02 - root - INFO: - metrics: Calculated!{"AP": 0.958, "recall": 0.958, "hmean": 0.967, "precision": 0.976}
+
+2024-10-17 09:18:37 - root - INFO: - metrics: Calculated!{"AP": 0.959, "recall": 0.959, "hmean": 0.969, "precision": 0.979}
+
+2024-10-17 09:19:14 - root - INFO: - metrics: Calculated!{"AP": 0.958, "recall": 0.958, "hmean": 0.965, "precision": 0.973}
+
+2024-10-17 09:19:50 - root - INFO: - metrics: Calculated!{"AP": 0.965, "recall": 0.965, "hmean": 0.963, "precision": 0.961}
+
+2024-10-17 09:20:27 - root - INFO: - metrics: Calculated!{"AP": 0.971, "recall": 0.971, "hmean": 0.975, "precision": 0.979}
+
+2024-10-17 09:21:03 - root - INFO: - metrics: Calculated!{"AP": 0.965, "recall": 0.965, "hmean": 0.972, "precision": 0.98}
+
+2024-10-17 09:21:38 - root - INFO: - metrics: Calculated!{"AP": 0.963, "recall": 0.963, "hmean": 0.968, "precision": 0.973}
+
+2024-10-17 09:22:15 - root - INFO: - metrics: Calculated!{"AP": 0.95, "recall": 0.95, "hmean": 0.965, "precision": 0.981}
+
+2024-10-17 09:22:51 - root - INFO: - metrics: Calculated!{"AP": 0.969, "recall": 0.969, "hmean": 0.977, "precision": 0.984}
+
+2024-10-17 09:23:28 - root - INFO: - metrics: Calculated!{"AP": 0.973, "recall": 0.973, "hmean": 0.973, "precision": 0.974}
+
+2024-10-17 09:24:02 - root - INFO: - metrics: Calculated!{"AP": 0.962, "recall": 0.962, "hmean": 0.972, "precision": 0.981}
+
+2024-10-17 09:24:37 - root - INFO: - metrics: Calculated!{"AP": 0.963, "recall": 0.963, "hmean": 0.97, "precision": 0.978}
+
+2024-10-17 09:25:11 - root - INFO: - metrics: Calculated!{"AP": 0.932, "recall": 0.932, "hmean": 0.957, "precision": 0.983}
+
+2024-10-17 09:25:46 - root - INFO: - metrics: Calculated!{"AP": 0.967, "recall": 0.967, "hmean": 0.973, "precision": 0.979}
+
+2024-10-17 09:26:22 - root - INFO: - metrics: Calculated!{"AP": 0.966, "recall": 0.966, "hmean": 0.969, "precision": 0.971}
+
+2024-10-17 09:26:57 - root - INFO: - metrics: Calculated!{"AP": 0.976, "recall": 0.976, "hmean": 0.971, "precision": 0.966}
+
+2024-10-17 09:27:33 - root - INFO: - metrics: Calculated!{"AP": 0.908, "recall": 0.908, "hmean": 0.943, "precision": 0.98}
+
+2024-10-17 09:28:08 - root - INFO: - metrics: Calculated!{"AP": 0.962, "recall": 0.962, "hmean": 0.971, "precision": 0.98}
+
+2024-10-17 09:28:42 - root - INFO: - metrics: Calculated!{"AP": 0.977, "recall": 0.977, "hmean": 0.974, "precision": 0.97}
+
+2024-10-17 09:29:17 - root - INFO: - metrics: Calculated!{"AP": 0.968, "recall": 0.968, "hmean": 0.975, "precision": 0.983}
+
+2024-10-17 09:29:52 - root - INFO: - metrics: Calculated!{"AP": 0.961, "recall": 0.961, "hmean": 0.971, "precision": 0.982}
+
+2024-10-17 09:30:28 - root - INFO: - metrics: Calculated!{"AP": 0.977, "recall": 0.977, "hmean": 0.975, "precision": 0.973}
+
+2024-10-17 09:31:03 - root - INFO: - metrics: Calculated!{"AP": 0.978, "recall": 0.978, "hmean": 0.976, "precision": 0.974}
+
+2024-10-17 09:31:38 - root - INFO: - metrics: Calculated!{"AP": 0.969, "recall": 0.969, "hmean": 0.975, "precision": 0.981}
+
+2024-10-17 09:32:13 - root - INFO: - metrics: Calculated!{"AP": 0.975, "recall": 0.975, "hmean": 0.977, "precision": 0.978}
+
+2024-10-17 09:32:48 - root - INFO: - metrics: Calculated!{"AP": 0.967, "recall": 0.967, "hmean": 0.973, "precision": 0.979}
+
+2024-10-17 09:33:23 - root - INFO: - metrics: Calculated!{"AP": 0.969, "recall": 0.969, "hmean": 0.973, "precision": 0.976}
+
+2024-10-17 09:33:58 - root - INFO: - metrics: Calculated!{"AP": 0.96, "recall": 0.96, "hmean": 0.971, "precision": 0.982}
+
+2024-10-17 09:34:32 - root - INFO: - metrics: Calculated!{"AP": 0.963, "recall": 0.963, "hmean": 0.971, "precision": 0.978}
+
+2024-10-17 09:35:06 - root - INFO: - metrics: Calculated!{"AP": 0.975, "recall": 0.975, "hmean": 0.976, "precision": 0.976}
+
+2024-10-17 09:35:41 - root - INFO: - metrics: Calculated!{"AP": 0.971, "recall": 0.971, "hmean": 0.97, "precision": 0.969}
+
+2024-10-17 09:36:16 - root - INFO: - metrics: Calculated!{"AP": 0.972, "recall": 0.973, "hmean": 0.977, "precision": 0.982}
+
+2024-10-17 09:36:51 - root - INFO: - metrics: Calculated!{"AP": 0.954, "recall": 0.954, "hmean": 0.963, "precision": 0.971}
+
+2024-10-17 09:37:26 - root - INFO: - metrics: Calculated!{"AP": 0.977, "recall": 0.977, "hmean": 0.977, "precision": 0.978}
+
+2024-10-17 09:38:01 - root - INFO: - metrics: Calculated!{"AP": 0.967, "recall": 0.967, "hmean": 0.962, "precision": 0.957}
+
+2024-10-17 09:38:36 - root - INFO: - metrics: Calculated!{"AP": 0.974, "recall": 0.974, "hmean": 0.978, "precision": 0.982}
+
+2024-10-17 09:39:10 - root - INFO: - metrics: Calculated!{"AP": 0.971, "recall": 0.971, "hmean": 0.978, "precision": 0.984}
+
+2024-10-17 09:39:46 - root - INFO: - metrics: Calculated!{"AP": 0.97, "recall": 0.971, "hmean": 0.972, "precision": 0.973}
+
