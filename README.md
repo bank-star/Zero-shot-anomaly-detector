@@ -1,7 +1,7 @@
 # Zero-Shot Printed Circuit Board Defect Detection Method via Optical Flow and Reconstruction Guidance
 ## Requirments
 ```
-conda create -n zsad python=3.8.16
+conda create -n zsad python=3.6.10
 conda activate zsad
 pip install -r requirements.txt
 ```
