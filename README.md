@@ -1,4 +1,4 @@
-# Zero-Shot Printed Circuit Board Defect Detection Method via Optical Flow and Reconstruction Guidance
+# Zero-Shot Printed Circuit Board Defect Detection via Optical Flow and Reconstruction Guidance
 ## Requirments
 ```
 conda create -n zsad python=3.6.10
