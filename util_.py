@@ -772,9 +772,12 @@ def get_hull(axis_list):
 
 def random_resize(img, right, up, fg, inter_type=cv2.INTER_NEAREST):
     H, W = img.shape[0], img.shape[1]
+    scale = 1.0
     if fg == 0:
         if len(img.shape) == 3:
             img_croped = img[20:H - 20, 20:W - 20, :]
+            if img.shape[2]==2:
+                scale = W / img_croped.shape[0]
         else:
             img_croped = img[20:H - 20, 20:W - 20]
         img_resized = cv2.resize(img_croped, dsize=(W, H), interpolation=inter_type)
@@ -783,8 +786,10 @@ def random_resize(img, right, up, fg, inter_type=cv2.INTER_NEAREST):
     else:
         img_paded = cv2.copyMakeBorder(img, int(up), int(up), int(right), int(right),
                                        cv2.BORDER_CONSTANT, value=0)
+        if len(img.shape) == 3 and img.shape[2]==2:
+            scale = W / img_paded.shape[0]
         img_resized = cv2.resize(img_paded, dsize=(W, H), interpolation=inter_type)
-    return img_resized.copy()
+    return img_resized.copy() * scale
 
 
 def rotation(img, angle):
@@ -803,6 +808,10 @@ def random_crop(img):
 
 
 def black_edge_crop(img, H, W):
+    if img.shape[2] == 2:
+        img = img[30:H - 30, 30:W - 30, :]
+        scale = H / img.shape[0]
+        return cv2.resize(img, dsize=(W, H)) * scale
     return cv2.resize(img[30:H - 30, 30:W - 30, :], dsize=(W, H))
 
 
